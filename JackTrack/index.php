@@ -19,7 +19,7 @@ $true_of_node = 1;
 //all data in array
 $data = array($result, $date, $true_of_node);
 
-//spakuj sve varijable iz niza u fajl
+//put all variables in all nodes.json data
 file_put_contents('node0.json', implode(' ',$data)."\n",FILE_APPEND | LOCK_EX);
 file_put_contents('node1.json', implode(' ',$data)."\n",FILE_APPEND | LOCK_EX);
 file_put_contents('node2.json', implode(' ',$data)."\n",FILE_APPEND | LOCK_EX);
