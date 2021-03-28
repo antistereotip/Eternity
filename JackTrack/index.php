@@ -10,7 +10,7 @@ $file = json_encode($arr);
 //date in microseconds
 $date = round(microtime(true) * 1000);
 
-//ispis vrednosti niza
+//print value of array
 $result = print_r($file, true);
 
 //true of nodes
