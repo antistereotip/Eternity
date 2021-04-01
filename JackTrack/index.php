@@ -1,6 +1,7 @@
 <?php
 //array data
-$arr = array ('a'=>1,'b'=>2,'c'=>3,'d'=>4,'e'=>5);
+$arr = array ('from'=>'hightech','to'=>'John Wick','through'=>'network','amount'=>5);
+
 
 //output json encoded
 echo json_encode($arr);
@@ -19,10 +20,10 @@ $true_of_node = 1;
 //all data in array
 $data = array($result, $date, $true_of_node);
 
-//put all variables in all nodes.json data
-file_put_contents('node0.json', implode(' ',$data)."\n",FILE_APPEND | LOCK_EX);
-file_put_contents('node1.json', implode(' ',$data)."\n",FILE_APPEND | LOCK_EX);
-file_put_contents('node2.json', implode(' ',$data)."\n",FILE_APPEND | LOCK_EX);
-file_put_contents('node3.json', implode(' ',$data)."\n",FILE_APPEND | LOCK_EX);
-file_put_contents('node4.json', implode(' ',$data)."\n",FILE_APPEND | LOCK_EX);
+//put all variables in all nodes/nodes[n].json data
+file_put_contents('nodes/node0.json', implode(' ',$data)."\n",FILE_APPEND | LOCK_EX);
+file_put_contents('nodes/node1.json', implode(' ',$data)."\n",FILE_APPEND | LOCK_EX);
+file_put_contents('nodes/node2.json', implode(' ',$data)."\n",FILE_APPEND | LOCK_EX);
+file_put_contents('nodes/node3.json', implode(' ',$data)."\n",FILE_APPEND | LOCK_EX);
+file_put_contents('nodes/node4.json', implode(' ',$data)."\n",FILE_APPEND | LOCK_EX);
 ?>
