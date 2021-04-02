@@ -9,7 +9,7 @@
 // SIMPLE STORE ONE JSON FILE INTO DATABASE
 
 
-$data = file_get_contents('nodes/node0.json'); 
+$data = file_get_contents('node_mysql.json'); 
 //Convert JSON string into PHP array format
 $array = json_decode($data, true);
 print_r ($array);
