@@ -1,3 +1,5 @@
+#   Copyright (c) 2021 Eternity Devs
+
 from dataclasses import dataclass
 from collections import defaultdict
 
