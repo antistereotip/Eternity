@@ -1,0 +1,11 @@
+[
+  {"Name":"Hightech","Title": "Developer",
+   "Address":{"Street":"11000 DL","City":"Belgrade"},
+   "Email":"antistereotip64@gmail.com", "Phone": "+381637622980"},
+  {"Name":"Antistereotip","Title": "Manager",
+   "Address":{"Street":"23 Sharp Crescent","City":"Bristol"},
+   "Email":"antistereotip32@gmail.com", "Phone":"+479975047"},
+  {"Name":"Smurf","Title": "CEO",
+   "Address":{"Street":"7 Yuki Street","City":"Tokyo"},
+   "Email":"velikistrumf@gmail.com", "Phone": "+47377800047"}
+]
