@@ -1,6 +1,7 @@
 #   Copyright (c) 2021 Eternity Devs
 
 import hashlib
+import dataclass
 import json
 
 from time import time
