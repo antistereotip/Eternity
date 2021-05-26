@@ -2,11 +2,11 @@ mkdir github
 cd github
 git clone https://github.com/user/repo
 cd repo
-nano fajl.ekstenzija (Editovati ili napraviti fajl)
-git add fajl.ekstenzija
-git commit -m "Ovo je izmena ili dodat novi fajl"
+nano file.extension (Edit or update file)
+git add file.extension
+git commit -m "Changed or new file"
 git commit
 git push
-(Kada se otvori prompt za user i pass uneti podatke)
-Nakon ovoga izmena ce biti uploadovana u repo
+(When open prompt enter github user and pass)
+After this change will be uploaded to repo
 
