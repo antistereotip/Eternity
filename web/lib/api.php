@@ -1,5 +1,5 @@
 <?php
-
+#---ista biblioteka kao default---#
 $eng = new ng1np();
 $eng->charset = 'utf-8';
 $eng->title = 'API';

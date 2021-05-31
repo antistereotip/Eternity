@@ -1,6 +1,7 @@
 <?php
-
+#---pozivanje klase---#
 $eng = new ng1np();
+#---definisanje varijabli---#
 $eng->charset = 'utf-8';
 $eng->title = 'API';
 $eng->sadrzaj = array( 
@@ -24,5 +25,6 @@ $eng->sadrzaj = array(
 	)
  );
 
+#---pozivanje render metode---#
 echo $eng->render('up/default.tpl');
 
