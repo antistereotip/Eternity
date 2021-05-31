@@ -1,7 +1,7 @@
 <?php
 #---pozivanje klase---#
 $eng = new ng1np();
-#---definisanje varijabli---#
+#---varijable---#
 $eng->charset = 'utf-8';
 $eng->title = 'API';
 $eng->sadrzaj = array( 
@@ -24,7 +24,6 @@ $eng->sadrzaj = array(
         "tekst" => 'Tekst zadate teme antistereotip do 1000 karaktera'
 	)
  );
-
-#---pozivanje render metode---#
+#---metoda render---#
 echo $eng->render('up/default.tpl');
 

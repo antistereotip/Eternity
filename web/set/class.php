@@ -1,16 +1,15 @@
 
 <?php
-#---nema direktnog pristupanja ovoj klasi---#
+#---nema direktnog pristupa klasi---#
 defined('ROOT_DIR') or exit('No direct script access allowed');
  
-#----klasa za renderovanje i templejte-----#
+#---klasa engine up ng1np---#
 class ng1np {
-	#---metod renderovanje---#
+	#---javna metoda render---#
 	public function render($script) {
         	$this->_require($script);
     	}
-
-	#---zasticena funkcija _require---#
+	#---zasticena metoda _require---#
     	protected function _require() {
         	require_once func_get_arg(0);
     	}

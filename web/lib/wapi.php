@@ -1,6 +1,7 @@
 <?php
-#---ista biblioteka kao default---#
+#---pozivanje klase---#
 $eng = new ng1np();
+#---varijable---#
 $eng->charset = 'utf-8';
 $eng->title = 'API';
 $eng->sadrzaj = array( 
@@ -23,6 +24,6 @@ $eng->sadrzaj = array(
         "tekst" => 'Tekst zadate teme antistereotip do 1000 karaktera'
 	)
  );
-
+#---render metoda---#
 echo $eng->render('up/wapi.tpl');
 

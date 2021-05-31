@@ -1,7 +1,7 @@
 <?php
 #--------definisi root putanju--------#
 define('ROOT_DIR', realpath(dirname(__FILE__)) .'/');
-require 'set/fnc.php';
+require 'set/class.php';
 
 #--------ruter-----------#
 $route = isset($_GET['route']) ? $_GET['route'] : '';

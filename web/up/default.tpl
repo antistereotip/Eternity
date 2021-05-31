@@ -4,7 +4,6 @@
 <head>
 <title><?php echo $this->title; ?></title>
 </head>
-
 <!-- end head -->
 
 <body>
