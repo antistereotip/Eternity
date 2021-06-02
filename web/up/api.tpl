@@ -7,6 +7,7 @@
 <!-- end head -->
 
 <body>
+<?php include 'inc/meni.php'; ?>
 
 <section>
 <?php foreach ($this->sadrzaj as $row) { ?>

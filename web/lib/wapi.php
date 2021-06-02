@@ -3,7 +3,7 @@
 $eng = new ng1np();
 #---varijable---#
 $eng->charset = 'utf-8';
-$eng->title = 'API';
+$eng->title = 'WAPI';
 $eng->sadrzaj = array( 
 	array(
 	"naslov" => "Wapi Naslov 1",
