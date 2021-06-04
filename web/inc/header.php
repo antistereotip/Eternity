@@ -2,12 +2,12 @@
 <html>
 <head>
 <style>
-table, th, td {
-  border: 1px solid black;
-}
+section {width: 58%; padding:1%; float: left;}
+aside {width: 38%; padding: 1%; float: left;}
 nav {
   display: block;
 }
+footer {width: 98%; padding: 1%; float: left;}
 </style>
 <title><?php echo $this->title; ?></title>
 </head>
