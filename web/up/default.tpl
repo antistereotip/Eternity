@@ -13,10 +13,11 @@
 <?php } ?>
 </section>
 
-</body>
+
 
 <footer>
 <?php include 'inc/footer.php'; ?>
 </footer>
 
+</body>
 </html>
