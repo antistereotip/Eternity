@@ -1,11 +1,4 @@
-<html>
-
-<!-- head -->
-<head>
-<title><?php echo $this->title; ?></title>
-</head>
-<!-- end head -->
-
+<?php include 'inc/header.php'; ?>
 <body>
 <?php include 'inc/meni.php'; ?>
 
@@ -16,10 +9,14 @@
 	<h2><?php echo $row['autor']; ?><h2>
 	<h2><?php echo $row['tema']; ?></h2>
 	<p><?php echo $row['tekst']; ?></p>
-	</div>		
+	</div><hr />		
 <?php } ?>
 </section>
 
 </body>
+
+<footer>
+<?php include 'inc/footer.php'; ?>
+</footer>
 
 </html>
