@@ -1,6 +1,4 @@
 <?php include 'inc/header.php'; ?>
-
-<body>
 <?php include 'inc/meni.php'; ?>
 
 <section>
@@ -14,11 +12,4 @@
 <?php } ?>
 </section>
 
-<footer>
 <?php include 'inc/footer.php'; ?>
-</footer>
-
-
-</body>
-
-</html>
