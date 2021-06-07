@@ -10,12 +10,26 @@
 <style>
 section {width: 58%; padding:1%; float: left;}
 aside {width: 38%; padding: 1%; float: left;}
-nav {
-  display: block;
+nav li {
+  display: inline;
 }
 footer {width: 98%; padding: 1%; float: left;}
 </style>
 
 </head>
 <body>
+<h1>Universe</h1>
+<?php
+$dir = "./pic/";
+#---ucitavanje vrednosti iz foldera u niz---#
+$pictures = glob($dir."*.png");
+//var_dump($pictures);
+shuffle($pictures);
+
+#---prikazivanje 4 random slike iz niza $pictures---#
+for ($i = 0; $i < 4; $i++) {
+    echo "<img src='". $pictures[$i] ."' height='150'/>";
+}
+?>
+<p></p>
 
