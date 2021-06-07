@@ -1,9 +1,14 @@
 <?php
 #---pozivanje klase---#
 $eng = new ng1np();
+
 #---varijable---#
-$eng->charset = 'utf-8';
+$eng->charset = 'UTF-8';
+$eng->keywords = 'default, default page, page';
+$eng->author = 'hightech';
+$eng->description = 'Short description of default page';
 $eng->title = 'Default';
+
 $eng->sadrzaj = array( 
 	array(
 	"naslov" => "Default 1",

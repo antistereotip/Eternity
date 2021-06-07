@@ -2,7 +2,10 @@
 #---pozivanje klase---#
 $eng = new ng1np();
 #---varijable---#
-$eng->charset = 'utf-8';
+$eng->charset = 'UTF-8';
+$eng->keywords = 'wapi, wapi page, page';
+$eng->author = 'hightech';
+$eng->description = 'Short description of wapi page';
 $eng->title = 'WAPI';
 $eng->sadrzaj = array( 
 	array(

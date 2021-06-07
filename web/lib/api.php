@@ -2,7 +2,10 @@
 #---pozivanje klase---#
 $eng = new ng1np();
 #---varijable---#
-$eng->charset = 'utf-8';
+$eng->charset = 'UTF-8';
+$eng->keywords = 'api, api page, page';
+$eng->author = 'hightech';
+$eng->description = 'Short description of api page';
 $eng->title = 'API';
 $eng->sadrzaj = array( 
 	array(
