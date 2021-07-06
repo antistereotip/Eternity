@@ -1,1 +1,2 @@
-#implementation of secure protocol for communication through socket
+#RIP Danilo Bogdanov
+#ghost protocol for communication through socket
