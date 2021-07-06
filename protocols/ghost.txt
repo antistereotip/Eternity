@@ -1,2 +1,3 @@
 #RIP Danilo Bogdanov
-#ghost protocol for communication through socket
+
+https://github.com/antistereotip/ghost/blob/main/socket.txt
