@@ -2,3 +2,6 @@
 --------------------
 https://github.com/antistereotip/ghost/blob/main/socket.txt
 https://github.com/antistereotip/ghost/blob/main/blackpaper.txt
+--------------------
+Licence:
+https://github.com/antistereotip/ghost/blob/main/LICENSE
