@@ -68,12 +68,11 @@ $eternity->core_team = array(
                       Shell and Environment teams ...'
     ),
     array(
-    "Title" => "@user",
-    "Role" => "Some role",
-    "Skills" => "Set of skills",
-    "Description" => 'Description...Description...Description...
-                      Description...Description...Description...
-                      Description....'
+    "Title" => "@Exotic",
+    "Role" => "Designer",
+    "Skills" => "Design",
+    "Description" => 'Comunicate with team and make designs and 
+                       frames and other design stuff'
     ),
     array(
     "Title" => "@user",
