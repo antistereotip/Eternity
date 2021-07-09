@@ -1,0 +1,89 @@
+1. Core team (Only 3 people)
+_____________
+
+$eternity->core_team = array( 
+    array(
+    "CEO" => "@Cuh",
+    "Role" => "Executive Director and Chairman",
+    "Skills" => "Social and Business skills",
+    "Description" => 'Communication and Managing Tasks for Core 
+                      and Shell team. Talking with COO, CIO, CTO, 
+                      Chairman, Lead of ENV team...'
+    ),
+    array(
+    "CTO" => "@mrsegall",
+    "Role" => "Technical Director",
+    "Skills" => "Development skills",
+    "Description" => 'Communication with COO, CEO, CIO, Chairman, 
+                      Lead of development. Put vision in technical 
+                      frames. Research and find best solutions....'
+    ),
+    array(
+    "COO" => "@hightech",
+    "Role" => "Cyber Operations and Vision",
+    "Skills" => "Low Level, High Level and Devops",
+    "Description" => 'Work with CEO and CTO. Also motivate teams 
+                      and find path for best pass. Work on 
+                      algorithms and cyber security risks....'
+    )
+ );
+ 
+ 2. Shell team (Chris decide how many people in shell, jadd it to the end of array - strategist, ethickal hacking, shell programming and every important part)
+ ______________
+ 
+ $eternity->shell_team = array( 
+    array(
+    "President" => "@Mr.Phantasm",
+    "Role" => "General Manager",
+    "Skills" => "Social and Business skills",
+    "Description" => 'Communication and Managing Tasks for Shell 
+                      and Environment teams. Talking with Core, 
+                      Shell and Environment teams ...'
+    ),
+    array(
+    "Title" => "@user",
+    "Role" => "Some role",
+    "Skills" => "Set of skills",
+    "Description" => 'Description...Description...Description...
+                      Description...Description...Description...
+                      Description....'
+    ),
+    array(
+    "Title" => "@user",
+    "Role" => "Some role",
+    "Skills" => "Set of skills",
+    "Description" => 'Description...Description...Description...
+                      Description...Description...Description...
+                      Description....'
+    )
+ );
+ 
+3. Environment team (Core and Shell teams decide how many people will be in Env team - design, marketing, development, and others)
+____________________
+
+$eternity->shell_team = array( 
+    array(
+    "Developer" => "@user",
+    "Role" => "Head of developers",
+    "Skills" => "Knowledge of tools for development",
+    "Description" => 'Description...Description...Description...
+                      Description...Description...Description...
+                      Description....'
+    ),
+    array(
+    "Title" => "@user",
+    "Role" => "Some role",
+    "Skills" => "Set of skills",
+    "Description" => 'Description...Description...Description...
+                      Description...Description...Description...
+                      Description....'
+    ),
+    array(
+    "Title" => "@user",
+    "Role" => "Some role",
+    "Skills" => "Set of skills",
+    "Description" => 'Description...Description...Description...
+                      Description...Description...Description...
+                      Description....'
+    )
+ );
