@@ -3,8 +3,6 @@
 define('ROOT_DIR', realpath(dirname(__FILE__)) .'/');
 require 'set/class.php';
 
-
-
 #--------ruter-----------#
 $route = isset($_GET['route']) ? $_GET['route'] : '';
 //$route = $_GET['route'];
@@ -15,8 +13,6 @@ $pages = array (
 'api' => './lib/api.php',
 'wapi' => './lib/wapi.php'
 );
-
-
 
 #------proverava da li je string u nizu veci od nule i da li je u nizu------#
 if( (strlen($pages[$route]) > 0) && (in_array($pages[$route], $pages)) ){
