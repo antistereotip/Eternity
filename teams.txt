@@ -1,5 +1,8 @@
-1. Core team (Only 3 people)
-_____________
+________________________________________________________________________________________________________________________________________________________________
+
+1. Core team (CEO, COO, CTO)
+   Core team may have just 3 people
+________________________________________________________________________________________________________________________________________________________________
 
 $eternity->core_team = array( 
     array(
@@ -28,8 +31,13 @@ $eternity->core_team = array(
     )
  );
  
+ _____________________________________________________________________________________________________________________________________________________________
+ 
  2. Shell team (Chris decide how many people in shell, jadd it to the end of array - strategist, ethickal hacking, shell programming and every important part)
- ______________
+    Shell team may have maximum 33 devs outside nutshell (But depend on Chris, that number can be much more bigger under nutshell)
+    Shell - 33 : Nutshell - under nutshell Chris decide how much can be people.
+ ______________________________________________________________________________________________________________________________________________________________
+ 
  
  $eternity->shell_team = array( 
     array(
@@ -58,8 +66,11 @@ $eternity->core_team = array(
     )
  );
  
+_______________________________________________________________________________________________________________________________________________________________
+
 3. Environment team (Core and Shell teams decide how many people will be in Env team - design, marketing, development, and others)
-____________________
+   Environment team may have from 50 to 500+ devs
+_______________________________________________________________________________________________________________________________________________________________
 
 $eternity->environment_team = array( 
     array(
@@ -78,6 +89,30 @@ $eternity->environment_team = array(
                       Description...Description...Description...
                       Description....'
     ),
+    array(
+    "Title" => "@user",
+    "Role" => "Some role",
+    "Skills" => "Set of skills",
+    "Description" => 'Description...Description...Description...
+                      Description...Description...Description...
+                      Description....'
+    )
+    array(
+    "Title" => "@user",
+    "Role" => "Some role",
+    "Skills" => "Set of skills",
+    "Description" => 'Description...Description...Description...
+                      Description...Description...Description...
+                      Description....'
+    )
+    array(
+    "Title" => "@user",
+    "Role" => "Some role",
+    "Skills" => "Set of skills",
+    "Description" => 'Description...Description...Description...
+                      Description...Description...Description...
+                      Description....'
+    )
     array(
     "Title" => "@user",
     "Role" => "Some role",
