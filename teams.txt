@@ -1,21 +1,21 @@
-This is multidimensional array or matrix in math with organised teams.
-Teams are splited in three parts.
+#This is multidimensional array or matrix in math with organised teams.
+#Teams are splited in three parts.
 
 1. Core team (3 people)
 2. Shell team (Chris decide how many people want in this team. Shell is for highly skilled developers)
 3. Environment team (This is perifery team, but very important because this team make User Interface and User Experience)
 
-TODO: Code engine to handle arrays and switch teams to their spaces (Every team has own space for dev, this logic is like switching label)
-TODO: Expand arrays if is needed (In array expanding options or add array at the end)
-TODO: Design protocols with permisions for 3 teams (3 teams must have diferent permissions)
-TODO: Make Api when App see 3 teams like One Big Team (Sinhronisation)
+#TODO: Code engine to handle arrays and switch teams to their spaces (Every team has own space for dev, this logic is like switching label)
+#TODO: Expand arrays if is needed (In array expanding options or add array at the end)
+#TODO: Design protocols with permisions for 3 teams (3 teams must have diferent permissions)
+#TODO: Make Api when App see 3 teams like One Big Team (Sinhronisation)
 
-Important: Eternity has no ownership. Eternity is Open Source. Only owner is user. User have full privacy and control under their account.
-Important: Every developer in Eternity must be whitehat and have ethic and moral. People are only valuable resource. 
-Important: Skills are not priority. Skills can be learned. Priority is love to computers and desire to learn. Skills are cheap, Passion is expensive.
-Important: Every separation in society will be watched like malicious and it can be restricted.
-Important: We are society, and must respect each other. We are all unique. Every member of team have self potential. Be humble and kind.
-Important: Just do it.
+#Important: Eternity has no ownership. Eternity is Open Source. Only owner is user. User have full privacy and control under their account.
+#Important: Every developer in Eternity must be whitehat and have ethic and moral. People are only valuable resource. 
+#Important: Skills are not priority. Skills can be learned. Priority is love to computers and desire to learn. Skills are cheap, Passion is expensive.
+#Important: Every separation in society will be watched like malicious and it can be restricted.
+#Important: We are society, and must respect each other. We are all unique. Every member of team have self potential. Be humble and kind.
+#Important: Just do it.
 
 ___________________________________________________________________________________________________________________________________________________
 
