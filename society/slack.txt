@@ -1,6 +1,3 @@
 #silence is golden
-#integration sucesfull
-#testing
-#testing more
-#and so on
-#sucesfull integration
+#integration sucesfull for eternity server
+#integration sucesfull for eternity fondation server
