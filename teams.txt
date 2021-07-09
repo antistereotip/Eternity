@@ -1,8 +1,27 @@
-________________________________________________________________________________________________________________________________________________________________
+This is multidimensional array or matrix in math with organised teams.
+Teams are splited in three parts.
+
+1. Core team (3 people)
+2. Shell team (Chris decide how many people want in this team. Shell is for highly skilled developers)
+3. Environment team (This is perifery team, but very important because this team make User Interface and User Experience)
+
+TODO: Code engine to handle arrays and switch teams to their spaces (Every team has own space for dev, this logic is like switching label)
+TODO: Expand arrays if is needed (In array expanding options or add array at the end)
+TODO: Design protocols with permisions for 3 teams (3 teams must have diferent permissions)
+TODO: Make Api when App see 3 teams like One Big Team (Sinhronisation)
+
+Important: Eternity has no ownership. Eternity is Open Source. Only owner is user. User have full privacy and control under their account.
+Important: Every developer in Eternity must be whitehat and have ethic and moral. People are only valuable resource. 
+Important: Skills are not priority. Skills can be learned. Priority is love to computers and desire to learn. Skills are cheap, Passion is expensive.
+Important: Every separation in society will be watched like malicious and it can be restricted.
+Important: We are society, and must respect each other. We are all unique. Every member of team have self potential. Be humble and kind.
+Important: Just do it.
+
+___________________________________________________________________________________________________________________________________________________
 
 1. Core team (CEO, COO, CTO)
    Core team may have just 3 people
-________________________________________________________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________________________________________
 
 $eternity->core_team = array( 
     array(
@@ -31,12 +50,12 @@ $eternity->core_team = array(
     )
  );
  
- _____________________________________________________________________________________________________________________________________________________________
+ ____________________________________________________________________________________________________________________________________________________
  
  2. Shell team (Chris decide how many people in shell, jadd it to the end of array - strategist, ethickal hacking, shell programming and every important part)
     Shell team may have maximum 33 devs outside nutshell (But depend on Chris, that number can be much more bigger under nutshell)
     Shell - 33 : Nutshell - under nutshell Chris decide how much can be people.
- ______________________________________________________________________________________________________________________________________________________________
+ _____________________________________________________________________________________________________________________________________________________
  
  
  $eternity->shell_team = array( 
@@ -66,11 +85,11 @@ $eternity->core_team = array(
     )
  );
  
-_______________________________________________________________________________________________________________________________________________________________
+___________________________________________________________________________________________________________________________________________________
 
 3. Environment team (Core and Shell teams decide how many people will be in Env team - design, marketing, development, and others)
    Environment team may have from 50 to 500+ devs
-_______________________________________________________________________________________________________________________________________________________________
+___________________________________________________________________________________________________________________________________________________
 
 $eternity->environment_team = array( 
     array(
