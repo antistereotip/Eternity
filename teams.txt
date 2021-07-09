@@ -61,7 +61,7 @@ $eternity->core_team = array(
 3. Environment team (Core and Shell teams decide how many people will be in Env team - design, marketing, development, and others)
 ____________________
 
-$eternity->shell_team = array( 
+$eternity->environment_team = array( 
     array(
     "Developer" => "@user",
     "Role" => "Head of developers",
