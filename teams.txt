@@ -52,7 +52,7 @@ $eternity->core_team = array(
  
  ____________________________________________________________________________________________________________________________________________________
  
- 2. Shell team (Chris decide how many people in shell, jadd it to the end of array - strategist, ethickal hacking, shell programming and every important part)
+ 2. Shell team (Chris decide how many people in shell, add it to the end of array - strategist, ethickal hacking, shell programming and every important part)
     Shell team may have maximum 33 devs outside nutshell (But depend on Chris, that number can be much more bigger under nutshell)
     Shell - 33 : Nutshell - under nutshell Chris decide how much can be people.
  _____________________________________________________________________________________________________________________________________________________
