@@ -19,14 +19,14 @@
 
 ___________________________________________________________________________________________________________________________________________________
 
-1. Core team (CEO, COO, CIO)
+1. Core team (CEO, CSO, COO)
    Core team may have just 3 people
 ____________________________________________________________________________________________________________________________________________________
 
 $eternity->core_team = array( 
     array(
     "CEO" => "@Cuh",
-    "Role" => "Executive Director and Chairman",
+    "Role" => "Executive Director",
     "Skills" => "Social and Business skills",
     "Description" => 'Communication and Managing Tasks for Core 
                       and Shell team. Talking with COO, CIO, CTO, 
@@ -69,7 +69,7 @@ $eternity->core_team = array(
     ),
     array(
     "Title" => "@Exotic",
-    "Role" => "Designer",
+    "Role" => "Lead Designer",
     "Skills" => "Design",
     "Description" => 'Comunicate with team and make designs and 
                        frames and other design stuff'
