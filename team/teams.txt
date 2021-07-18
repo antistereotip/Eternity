@@ -75,12 +75,10 @@ $eternity->core_team = array(
                        frames and other design stuff'
     ),
     array(
-    "Title" => "@user",
-    "Role" => "Some role",
+    "Title" => "@Chequita/Mrs P",
+    "Role" => "Cociety manager",
     "Skills" => "Set of skills",
-    "Description" => 'Description...Description...Description...
-                      Description...Description...Description...
-                      Description....'
+    "Description" => 'MAke dreams of Mr Phantasm true :)'
     )
  );
  
