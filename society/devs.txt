@@ -1,15 +1,16 @@
 #silence is golden
 --------------------------------------------------
+#ivo - 1001 - Balkan Bro - Ghost
 --------------------------------------------------
-#milutin - @hightech - coo
-#eric - @mrsegall - cio
-#michael - @Cuh - ceo
+#milutin - @hightech - coo - 0000
+#eric - @mrsegall - cio - 1100
+#michael - @Cuh - ceo --1010
 --------------------------------------------------
-#chris - @mr.Phantasm - president
+#chris - @mr.Phantasm - president - 0001
 --------------------------------------------------
-#Chequita - @Chequita/Mrs P - Community manager
+#Chequita - @Chequita/Mrs P - Community manager - 0101
 --------------------------------------------------
-#exotic - @Exotic
+#exotic - @Exotic - 1110
 #dev
 #dev
 --------------------------------------------------
