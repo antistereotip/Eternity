@@ -1,5 +1,6 @@
 #This is multidimensional array or matrix in math with organised teams.
 #Teams are splited in three parts.
+#Slack for 3 core teams, discord for reqruitments
 
 1. Core team (3 people)
 2. Shell team (Chris decide how many people want in this team. Shell is for highly skilled developers)
