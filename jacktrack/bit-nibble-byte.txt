@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------------------------------------------------
+1 or 0 - bit (It can be 1 or 0) - smallest unit in computing
+-------------------------------------------------------------------------------------------------------------------------
+0010 - nibble - In computing, a nibble is a four-bit aggregation, or half an octet.
+-------------------------------------------------------------------------------------------------------------------------
+00110001 - byte - The byte is a unit of digital information that most commonly consists of eight bits.
+A full byte (octet) is represented by two hexadecimal digits; therefore, it is common to display a byte 
+of information as two nibbles.
+-------------------------------------------------------------------------------------------------------------------------
+
