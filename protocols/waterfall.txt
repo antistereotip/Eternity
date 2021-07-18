@@ -1,0 +1,3 @@
+The waterfall model is a breakdown of project activities into linear sequential phases, 
+where each phase depends on the deliverables of the previous one and corresponds to a 
+specialisation of tasks.
