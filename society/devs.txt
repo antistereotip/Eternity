@@ -16,6 +16,9 @@ Shell team:
 #exotic - @Exotic - Design Lead - 1110
 #expand shell team. Expand underteams. 
 #----------------------------------------------------------------------------------------#
+Environment_team:
+#blockchain devs and other programmers
+#----------------------------------------------------------------------------------------#
 Outsource team:
 #ivo - @b52 - Balkan Bro - Cicada 3301 - 1001
 #m - @m - Balkan Spy - 0110  
