@@ -1,12 +1,17 @@
-#-------------------------------------------------------------------------------------------------------------------------#
-Hyperloop is a new way of transmitting information over a network. The connection between the two nearest nodes 
-should have a very fast response and execution. Packets traveling through the network should have their own flag 
-and each packet will be encapsulated and delivered to the nearest node. Synchronization in Hyperloop is a priority 
-and every transport must be fast and expeditious. Iterations of the synchronous method will be repeated if the 
-packet breaks during encapsulation or during sending or receiving. The flag will be a label and each node will be 
-mapped to train and learn the network itself. Hyperloop should have an infinite iteration of synchronization that 
-alternately routes layers.
-#-------------------------------------------------------------------------------------------------------------------------#
+#------------------------------------------------------------------------------------------------------------------------------#
+Hyperloop is a new way of transmitting information over a network. The connection between the two nearest nodes should have 
+a very fast response and execution. Packets traveling through the network should have their own flag and each packet will 
+be encapsulated and delivered to the nearest node. Synchronization in Hyperloop is a priority and every transport must be 
+fast and expeditious. Iterations of the synchronous method will be repeated if the packet breaks during encapsulation or 
+during sending or receiving. The flag will be a label and each node will be mapped to train and learn the network itself. 
+Hyperloop should have an infinite iteration of synchronization that alternately routes layers.
+#------------------------------------------------------------------------------------------------------------------------------#
 HyperLoop - node 1 <--encapsulation--> node 2 <--encapsulation--> node 3 <--encapsulation--> node [n] <--encapsulation-->
-#-------------------------------------------------------------------------------------------------------------------------#
-
+#------------------------------------------------------------------------------------------------------------------------------#
+Hyperloop makes a quick connection and sends a packet in a capsule. The transaction package carries the key with the flag. 
+In addition to standard encryption during transport, a layer that carries the label and combines it with the flag is foreign.
+#------------------------------------------------------------------------------------------------------------------------------#
+Hyperloop is in charge of synchronizing the nodes safely and accurately.
+#------------------------------------------------------------------------------------------------------------------------------#
+The new transport layer allows complete privacy and redundancy of Hyperloop architecture.
+#------------------------------------------------------------------------------------------------------------------------------#
