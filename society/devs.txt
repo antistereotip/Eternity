@@ -1,4 +1,13 @@
 #-----------------------------------------------------------------------------------------------------------------------------#
+#this document: https://github.com/antistereotip/Eternity/blob/main/team/teams.txt
+#reffer to multidimensional array of structure team and splited teams. 
+#core and shell teams are most important to company structure. 
+#each member of the main (16 people) team should have a unique nibble ID.
+#-----------------------------------------------------------------------------------------------------------------------------#
+- core team (3 nibble unique IDs)
+- shell team (13 nibble unique IDs)
+- environment team (No nibble, just hexadecimal scheme IDs)
+#-----------------------------------------------------------------------------------------------------------------------------#
 #silence is golden - but not now ...
 #root range of ipv4 is 0.0.0.0 - We start counting from 0000 nibble.
 #only 16 members of dev team may have nibble digit. 
