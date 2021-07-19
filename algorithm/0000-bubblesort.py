@@ -1,3 +1,5 @@
+#hightech - It's not a bug, it's a feature
+
 def bubbleSort( theSeq ):
     n = len( theSeq )
 
