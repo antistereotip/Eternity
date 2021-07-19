@@ -1,4 +1,6 @@
 #------------------------------------------------------------------------------------------------------------------------------#
+@hightech - It's not a bug, it's a feature
+#------------------------------------------------------------------------------------------------------------------------------#
 Hyperloop is a new way of transmitting information over a network. The connection between the two nearest nodes should have 
 a very fast response and execution. Packets traveling through the network should have their own flag and each packet will 
 be encapsulated and delivered to the nearest node. Synchronization in Hyperloop is a priority and every transport must be 
