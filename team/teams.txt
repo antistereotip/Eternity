@@ -80,6 +80,12 @@ $eternity->core_team = array(
     "Role" => "Society manager",
     "Skills" => "Set of skills",
     "Description" => 'MAke dreams of Mr Phantasm true :)'
+    ),
+    array(
+    "Title" => "@Lucifer",
+    "Role" => "Senior Blockchain Developer",
+    "Skills" => "Set of skills",
+    "Description" => 'https://github.com/msilucifer'
     )
  );
  
