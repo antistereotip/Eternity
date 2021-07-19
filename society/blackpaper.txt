@@ -1,3 +1,5 @@
+#hightech - It's not a bug, it's a feature
+
 We also have whitepaper, but this document is Monty Python blackpaper.
 
 This document has no value.
