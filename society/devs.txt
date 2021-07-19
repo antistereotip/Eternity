@@ -1,4 +1,6 @@
 #-----------------------------------------------------------------------------------------------------------------------------#
+#hightech - It's not a bug, it's a feature
+#-----------------------------------------------------------------------------------------------------------------------------#
 #this document: https://github.com/antistereotip/Eternity/blob/main/team/teams.txt
 #reffer to multidimensional array of structure team and splited teams. 
 #core and shell teams are most important to company structure. 
