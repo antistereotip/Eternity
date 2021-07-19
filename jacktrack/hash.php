@@ -1,4 +1,6 @@
 <?php
+#----hightech - It's not a bug, it's a feature----#
+
 $data = "hello world";
 
 foreach (hash_algos() as $v) {
