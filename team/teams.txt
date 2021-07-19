@@ -34,8 +34,8 @@ $eternity->core_team = array(
                       Chairman, Lead of ENV team...'
     ),
     array(
-    "CIO" => "@mrsegall",
-    "Role" => "Chief Information Officer - 1100",
+    "CSO" => "@mrsegall",
+    "Role" => "Chief Security Officer - 1100",
     "Skills" => "Development skills",
     "Description" => 'Communication with COO, CEO, CTO, President, 
                       Lead of development. Put vision in technical 
