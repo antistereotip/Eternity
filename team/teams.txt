@@ -27,7 +27,7 @@ ________________________________________________________________________________
 $eternity->core_team = array( 
     array(
     "CEO" => "@Cuh",
-    "Role" => "Executive Director",
+    "Role" => "Executive Director - 1010",
     "Skills" => "Social and Business skills",
     "Description" => 'Communication and Managing Tasks for Core 
                       and Shell team. Talking with COO, CIO, CTO, 
@@ -35,7 +35,7 @@ $eternity->core_team = array(
     ),
     array(
     "CIO" => "@mrsegall",
-    "Role" => "Technical Director",
+    "Role" => "Chief Information Officer - 1100",
     "Skills" => "Development skills",
     "Description" => 'Communication with COO, CEO, CTO, President, 
                       Lead of development. Put vision in technical 
@@ -43,7 +43,7 @@ $eternity->core_team = array(
     ),
     array(
     "COO" => "@hightech",
-    "Role" => "Cyber Operations and Vision",
+    "Role" => "Cyber Operations and Vision - 0000",
     "Skills" => "Low Level, High Level and Devops",
     "Description" => 'Work with CEO and CTO and CIO. Also motivate teams 
                       and find path for best pass. Work on 
@@ -62,7 +62,7 @@ $eternity->core_team = array(
  $eternity->shell_team = array( 
     array(
     "President" => "@Mr.Phantasm",
-    "Role" => "General Manager and PResident",
+    "Role" => "General Manager and President - 0001",
     "Skills" => "Social and Business skills",
     "Description" => 'Communication and Managing Tasks for Shell 
                       and Environment teams. Talking with Core, 
@@ -70,26 +70,26 @@ $eternity->core_team = array(
     ),
     array(
     "Title" => "@Exotic",
-    "Role" => "Lead Designer",
+    "Role" => "Lead Designer - 1110",
     "Skills" => "Design",
     "Description" => 'Comunicate with team and make designs and 
                        frames and other design stuff'
     ),
     array(
     "Title" => "@Chequita/Mrs P",
-    "Role" => "Society manager",
+    "Role" => "Society manager - 0101",
     "Skills" => "Set of skills",
-    "Description" => 'MAke dreams of Mr Phantasm true :)'
+    "Description" => 'Make dreams of Mr Phantasm true :)'
     ),
     array(
     "Title" => "@Lucifer",
-    "Role" => "Senior Blockchain Developer",
+    "Role" => "Senior Blockchain Developer - 1000",
     "Skills" => "https://github.com/msilucifer",
     "Description" => 'Lucifer develop blockchain platform and he is blockchain senior dev'
     ),
     array(
     "Title" => "@0xJason",
-    "Role" => "Development Lead",
+    "Role" => "Development Lead - 0111",
     "Skills" => "Leadership at Dev",
     "Description" => '0xJason develop blockchain platform and he is blockchain lead dev'
     )
