@@ -1,1 +1,3 @@
-if t1+t2+t3+mr == c > mine, else > not
+#not good math model
+#to-do: math algh
+if  (t1+t2+t3+mr == c) > mine, else > not;
