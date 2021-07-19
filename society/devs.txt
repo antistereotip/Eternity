@@ -1,19 +1,24 @@
 #----------------------------------------------------------------------------------------#
 #silence is golden - but not now ...
+#root range of ipv4 is 0.0.0.0 - We start counting from 0000 nibble.
+#only 16 members of dev team may have nibble digit. 
+#algorithm have 3 layers.
+#team logic have 3 layers.
 #----------------------------------------------------------------------------------------#
 Core team:
 #milutin - @hightech - COO - 0000
 #eric - @mrsegall - CIO - 1100
-#michael - @Cuh - CEO --1010
+#michael - @Cuh - CEO - 1010
 #----------------------------------------------------------------------------------------#
 Shell team:
 #chris - @mr.Phantasm - President - 0001
 #chequita - @Chequita/Mrs P - Community Manager - 0101
 #exotic - @Exotic - Design Lead - 1110
-#expand more 9 people to shell team. Then Chris will expand underteams. 
+#expand shell team. Expand underteams. 
 #----------------------------------------------------------------------------------------#
 Outsource team:
-#ivo - @b52 - 1001 - Balkan Bro - Cicada 3301
+#ivo - @b52 - Balkan Bro - Cicada 3301 - 1001
+#m - @m - Balkan Spy - 0110  
 #----------------------------------------------------------------------------------------#
 Every member of team have nibble (4 bits digit). Its unique ID number for matrix.
 #----------------------------------------------------------------------------------------#
