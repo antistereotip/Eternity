@@ -1,3 +1,4 @@
+#hightech - It's not a bug, it's a feature
 def selectionSort( itemsList ):
     n = len( itemsList )
     for i in range( n - 1 ): 
