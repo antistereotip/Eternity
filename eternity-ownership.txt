@@ -6,8 +6,12 @@ platform based on the work and effort of a team of enthusiasts who want to build
 the end user. The user as well as the development team participates in the development and the code is completely 
 free for any modification or adaptation. The moment a user accesses the Eternity platform it is his property.
 
-#----------------------------------------------------LICENSE---------------------------------------------------------# 
+#------------------------------------------------Our License---------------------------------------------------------# 
 
 Fully owned by the user. Do what you want with the code.
+
+#--------------------------------------------------License-----------------------------------------------------------# 
+
+MIT License
 
 #--------------------------------------------------------------------------------------------------------------------# 
