@@ -15,6 +15,7 @@ Shell team:
 #chequita - @Chequita/Mrs P - Community Manager - 0101
 #exotic - @Exotic - Design Lead - 1110
 #lucifer - @Lucifer - Senior Blockchain Developer - 1000
+#0xJason - @0xJason - Development Lead - 0111
 #expand shell team. Expand underteams. 
 #-----------------------------------------------------------------------------------------------------------------------------#
 Environment_team:
