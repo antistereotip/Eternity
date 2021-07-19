@@ -1,4 +1,6 @@
 <?php
+#--------hightech - It's not a bug, it's a feature-------#
+
 #--------definisi root putanju--------#
 define('ROOT_DIR', realpath(dirname(__FILE__)) .'/');
 require 'set/class.php';
