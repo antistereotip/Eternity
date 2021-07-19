@@ -1,4 +1,2 @@
-#silence is golden
-#integration sucesfull for eternity server
-#integration sucesfull for eternity fondation server
-#call this command: /github subscribe owner/repository on dev channel, and every change on repo will be visible on dev channel
+#integrate slackbot
+#call this command: /github subscribe owner/repository on dev channel, and every change on repo will be visible on that channel
