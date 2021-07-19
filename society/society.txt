@@ -1,3 +1,5 @@
+#hightech - It's not a bug, it's a feature
+
 Hello World !
 
 We are society
