@@ -1,24 +1,26 @@
-----------------------------------------------------------------------------
-#silence is golden - but not always :)
-----------------------------------------------------------------------------
+----------------------------------------------------------------------------------------
+#silence is golden - but not now ...
+----------------------------------------------------------------------------------------
 Core team:
-#milutin - @hightech - coo - 0000
-#eric - @mrsegall - cio - 1100
-#michael - @Cuh - ceo --1010
-----------------------------------------------------------------------------
+#milutin - @hightech - COO - 0000
+#eric - @mrsegall - CIO - 1100
+#michael - @Cuh - CEO --1010
+----------------------------------------------------------------------------------------
 Shell team:
-#chris - @mr.Phantasm - president - 0001
-#Chequita - @Chequita/Mrs P - Community manager - 0101
-#exotic - @Exotic - 1110
-----------------------------------------------------------------------------
-Every member of team have nibble (4 bits digit)
-----------------------------------------------------------------------------
-We need 16 main people with different nibbles. 
-Nibbles have 16 cases and its in corellation with 
-hexadecimal scheme
-----------------------------------------------------------------------------
-Combine nibbles (4 bit digits) with AND, OR, XOR, NOT, NAND, NOR, i XNOR
-----------------------------------------------------------------------------
-#ivo - 1001 - Balkan Bro - Ghost - On the bottom ...
-----------------------------------------------------------------------------
+#chris - @mr.Phantasm - President - 0001
+#chequita - @Chequita/Mrs P - Community Manager - 0101
+#exotic - @Exotic - Design Lead - 1110
+#expand more 9 people to shell team. Then Chris will expand underteams. 
+----------------------------------------------------------------------------------------
+Outsource team:
+#ivo - @b52 - 1001 - Balkan Bro - Cicada 3301
+----------------------------------------------------------------------------------------
+Every member of team have nibble (4 bits digit). Its unique ID number for matrix.
+----------------------------------------------------------------------------------------
+We need 16 main people with different nibbles. Hexa-table ...
+(We have 7 for now - $variable)
+----------------------------------------------------------------------------------------
+Combine nibbles (4 bit digits) with AND, OR, XOR, NOT, NAND, NOR, and XNOR Logic Gates
+----------------------------------------------------------------------------------------
+
 
