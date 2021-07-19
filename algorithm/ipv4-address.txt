@@ -1,8 +1,34 @@
--------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------
+IPV4 ADDRESS - BASICS
+---------------------------------------------------------------------------------------------------------------------------------
+A standard IP address (eg 176.32.32.178) consists of four parts of one byte (8 bits), separated by a period. 
+The available address range is from 0.0.0.0 to 255.255.255.255.
+---------------------------------------------------------------------------------------------------------------------------------
+We separate the network from the host computer. An IPv4 address consists of two parts: 
+
+the part that represents the IP network address (the same for all computers on the same IP network) 
+and the part that represents the computer address (unique to each computer on the same IP network). 
+
+The first part of the address is used to identify the network, and the second part to identify the host computer.
+---------------------------------------------------------------------------------------------------------------------------------
+There are three basic divisions, network classes (A, B and C) and two more from special ranges (D and E):
+
+Class A has a reserved range of 10.0.0.0 - 10.255.255.255, 1 network, with a maximum of 16777214 million customers
+Class B has a reserved range of 172.16.0.0 - 172.31.255.255, 16 networks, with a maximum of 65,534 clients
+Class C has a reserved range of 192.168.0.0 - 192.168.255.255, 256 networks, each with a maximum of 254 clients
+Class D has a reserved range of 240.0.0.0 - 247.255.255.255 and these addresses are used for multicast on an IPv4 network.
+Class E has a reserved range of 248.0.0.0 - 247.255.255.255 and these addresses are used for testing by IANA.
+---------------------------------------------------------------------------------------------------------------------------------
+Rezervisane adrese su:
+
+0.0.0.0 – koristi je RIP za rutiranje
+255.255.255.255 – koristi se za emitovanja, broadcast adresa
+127.0.0.1 – rezervisano za adresu lokalne petlje (engl. local loopback adress)
+---------------------------------------------------------------------------------------------------------------------------------
 8 bits - octet
 128 * 64 * 32 * 16 * 8 * 4 * 2 * 1  =  255
 1     1    1    1    1   1   1   1  =  8 bits
--------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------
 There is 4 octets with 8 bits filled with array wich start from 128 and end with 1.
 [128+64+32+16+8+4+2+1] . [128+64+32+16+8+4+2+1] . [128+64+32+16+8+4+2+1] . [128+64+32+16+8+4+2+1]
 is the same like:
@@ -10,7 +36,7 @@ is the same like:
 Thats all 32 bits filled up with 1.
 Decimal address:
 255.255.255.255
--------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------
 32 bits - 4 octets
 adrress: 192.168.0.1
 * 192 = 128 + 64 + 0 + 0 + 0 + 0 + 0 + 0 - first octet
@@ -24,8 +50,15 @@ or binary
 * 1   = 00000001
 example of binary address 192.168.0.1:
 11000000.10101000.00000000.00000001
--------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------
 Subnet mask /24 = 11111111 11111111 11111111 00000000 or 255.255.255.0
 * 255 = 128 + 64 + 32 + 16 + 8 + 4 + 2 + 1
 * we fill the first 24 bits (3 octets) with ones and the other 8 bits (one octet) with zeros.
--------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------
+Let's simplify (or complicate) more. We have a subnet mask / 12. We count units up to 12, and we have a total of 32 bits, 
+so we write 12 units and 20 zeros. Like this:
+11111111 11110000 00000000 00000000
+----------------------------------------------------------------------------------------------------------------------------------
+Thats all folks !!!
+----------------------------------------------------------------------------------------------------------------------------------
+
