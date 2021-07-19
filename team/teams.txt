@@ -34,10 +34,10 @@ $eternity->core_team = array(
                       Chairman, Lead of ENV team...'
     ),
     array(
-    "CTO" => "@mrsegall",
+    "CIO" => "@mrsegall",
     "Role" => "Technical Director",
     "Skills" => "Development skills",
-    "Description" => 'Communication with COO, CEO, CIO, Chairman, 
+    "Description" => 'Communication with COO, CEO, CTO, President, 
                       Lead of development. Put vision in technical 
                       frames. Research and find best solutions....'
     ),
@@ -45,7 +45,7 @@ $eternity->core_team = array(
     "COO" => "@hightech",
     "Role" => "Cyber Operations and Vision",
     "Skills" => "Low Level, High Level and Devops",
-    "Description" => 'Work with CEO and CTO. Also motivate teams 
+    "Description" => 'Work with CEO and CTO and CIO. Also motivate teams 
                       and find path for best pass. Work on 
                       algorithms and cyber security risks....'
     )
@@ -62,7 +62,7 @@ $eternity->core_team = array(
  $eternity->shell_team = array( 
     array(
     "President" => "@Mr.Phantasm",
-    "Role" => "General Manager",
+    "Role" => "General Manager and PResident",
     "Skills" => "Social and Business skills",
     "Description" => 'Communication and Managing Tasks for Shell 
                       and Environment teams. Talking with Core, 
@@ -77,7 +77,7 @@ $eternity->core_team = array(
     ),
     array(
     "Title" => "@Chequita/Mrs P",
-    "Role" => "Cociety manager",
+    "Role" => "Society manager",
     "Skills" => "Set of skills",
     "Description" => 'MAke dreams of Mr Phantasm true :)'
     )
