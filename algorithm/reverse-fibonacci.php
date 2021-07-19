@@ -1,4 +1,5 @@
 <?php
+#hightech - It's not a bug, it's a feature
 # PHP Program to print Fibonacci series in reverse order
 function reverseFibonacci($n)
 {
