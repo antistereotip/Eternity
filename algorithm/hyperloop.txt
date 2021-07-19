@@ -1,3 +1,4 @@
+#-------------------------------------------------------------------------------------------------------------------------#
 Hyperloop is a new way of transmitting information over a network. The connection between the two nearest nodes 
 should have a very fast response and execution. Packets traveling through the network should have their own flag 
 and each packet will be encapsulated and delivered to the nearest node. Synchronization in Hyperloop is a priority 
@@ -5,3 +6,7 @@ and every transport must be fast and expeditious. Iterations of the synchronous 
 packet breaks during encapsulation or during sending or receiving. The flag will be a label and each node will be 
 mapped to train and learn the network itself. Hyperloop should have an infinite iteration of synchronization that 
 alternately routes layers.
+#-------------------------------------------------------------------------------------------------------------------------#
+HyperLoop - node 1 <--encapsulation--> node 2 <--encapsulation--> node 3 <--encapsulation--> node [n] <--encapsulation-->
+#-------------------------------------------------------------------------------------------------------------------------#
+
