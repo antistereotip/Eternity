@@ -1,0 +1,41 @@
+-------------------------------------------------------------------------------------------------
+Unlike ipv4 addresses, which have a width of 32 bits, IPv6 have a width of 128 bits.
+-------------------------------------------------------------------------------------------------
+Example of an IPv6 address:
+0121: ffa9: 0012: a888: 0001: 22ff: 2000: ff33
+-------------------------------------------------------------------------------------------------
+When we look at this address, we see that there are 8 sections of 4 places (fields). 
+In each field we have a value of 4 bits. So one section with 4 fields has 4 times 4 bits, 
+that's 16 bits. 8 sections of 16 bits each are 128 bits. This is the basic IPv6 address count.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+The IPv6 address consists of 8 sections of 4 fields, but we divide it into two parts of  64 bits each to know what is the network part (Network ID) 
+and what is the interface identifier (Interface ID), where Interface ID can be viewed as Host ID but he is not. Interface ID is not so important 
+to us because of the huge number of IP addresses in IPv6, and also because we have automatic assignment of IP addresses.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+We can shorten the IPv6 address by any zeros or zeros that are in the section before another character. 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Example:
+0121: 0009: 0012: a888: 0001: 22ff: 0000: 0033
+The above address can be abbreviated as follows:
+121: 9: 12: a888: 1: 22ff: 0: 33
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+The next question is why and how one place counts 4 bits. Unlike 32-bit IPv4 standard addresses where fields are marked in binary 
+(each of the 4 octets has 8 zeros or ones) and visible in decimal (eg: 176.16.0.1), IPv6 addresses can be marked in binary but in 
+hexadecimal notation ( 8 sections of 4 hexadecimal characters). Each hexadecimal character can be converted to zeros and ones (binary system), 
+so we get 16 characters per section.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+The hexadecimal system is numbered up to 15, more clearly as follows:
+0, 1, 2, 3, 4, 5, 6, 7, 8, 9, a, b, c, d, e, f
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+So if you see an IPv6 address in the form: 
+gg33: 44tt: gg67: 4444: 5543: uuuu: aass: 9000 
+it is certainly not correct and does not exist, because there are certain allowed characters in the hexadecimal record.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Address in hexadecimal notation:
+0001: ff44: 4499: aa11: a000: 1212: eeee: 0909
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Same address converted to binary record:
+0000 0000 0000 0001:1111 1111 0101 0101:0101 0101 1001 1001:1010 1010 0001 0001:1010 0000 0000 0000:0001 0010 0001 0010:1110 1110 1110 1110:0000 1001 0000 1001
+This address have 32 nibbles (4 bits digit) or just 32 x 4 = 128 bits.
+
+
