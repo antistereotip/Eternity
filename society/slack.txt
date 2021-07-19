@@ -1,2 +1,4 @@
+#hightech - It's not a bug, it's a feature
+
 #integrate slackbot
 #call this command: /github subscribe owner/repository on dev channel, and every change on repo will be visible on that channel
