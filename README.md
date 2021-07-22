@@ -1,5 +1,5 @@
 ## Eternity
-♾ Eternity is a modern, open-source cryptocurrency.
+♾ Eternity is a modern, open-source blockchain platform.
 
 *Feel free to contribute to the project by making a pull request!*
 
