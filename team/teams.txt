@@ -105,9 +105,9 @@ ________________________________________________________________________________
 
 $eternity->environment_team = array( 
     array(
-    "Developer" => "@Iwo21",
-    "Role" => "Unknown for now",
-    "Skills" => "Unknown for now",
+    "Developer" => "@user",
+    "Role" => "Some role",
+    "Skills" => "Set of skills",
     "Description" => 'Description...Description...Description...
                       Description...Description...Description...
                       Description....'
