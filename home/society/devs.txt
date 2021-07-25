@@ -17,27 +17,27 @@
 #team logic have 3 layers.
 #-----------------------------------------------------------------------------------------------------------------------------#
 Core team:
-#milutin - @hightech - COO - 0000
-#eric - @mrsegall - CSO - 1100
-#michael - @Cuh - CEO - 1010
+#milutin - @hightech - COO - 0000 (0)
+#eric - @mrsegall - CSO - 1100 (C)
+#michael - @Cuh - CEO - 1010 (A)
 #-----------------------------------------------------------------------------------------------------------------------------#
 Shell team:
-#chris - @mr.Phantasm - President - 0001
-#chequita - @Chequita/Mrs P - Community Manager - 0101
-#exotic - @Exotic - Design Lead - 1110
-#lucifer - @Lucifer - Senior Blockchain Developer - 1000
-#0xJason - @0xJason - Development Lead - 0111
+#chris - @mr.Phantasm - President - 0001 (1)
+#chequita - @Chequita/Mrs P - Community Manager - 0101 (5)
+#exotic - @Exotic - Design Lead - 1110 (E)
+#lucifer - @Lucifer - Senior Blockchain Developer - 1000 (8)
+#0xJason - @0xJason - Development Lead - 0111 (7)
 #expand shell team. Expand underteams. 
 #-----------------------------------------------------------------------------------------------------------------------------#
 Environment_team:
 #blockchain devs and other programmers
 #-----------------------------------------------------------------------------------------------------------------------------#
 Backup shadow team:
-#ivo - @b52 - Balkan Bro - Cicada 3301 - 1001
-#m - @m - Balkan Spy - 0110  
-#oposum - @oposum - Handle - AES - 0100
+#ivo - @b52 - Balkan Bro - Cicada 3301 - 1001 (9)
+#m - @m - Balkan Spy - 0110 (6)  
+#oposum - @oposum - Handle - AES - 0100 (4)
 #-----------------------------------------------------------------------------------------------------------------------------#
-Used nibbles ID: 0000, 1100, 1010, 0001, 0101, 1110, 1001, 0110, 1000, 0111 (Combine with Logic Gates)
+Used nibbles ID: 0000, 1100, 1010, 0001, 0101, 1110, 1001, 0110, 1000, 0111, 0100 (Combine with Logic Gates)
 #-----------------------------------------------------------------------------------------------------------------------------#
 Every member of team have nibble (4 bits digit). Its unique ID number for matrix.
 #-----------------------------------------------------------------------------------------------------------------------------#
