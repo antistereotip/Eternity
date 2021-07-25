@@ -7,8 +7,10 @@
 #each member of the main (16 people) team should have a unique nibble ID.
 #-----------------------------------------------------------------------------------------------------------------------------#
 - core team (3 nibble unique IDs)
-- shell team (13 nibble unique IDs)
-- environment team (No nibble, just hexadecimal scheme IDs)
+- shell team (10 nibble unique IDs)
+- environment team (No nibble, just hexadecimal scheme IDs - from 00 to FFFF - 00000000 to 1111111111111111)
+...
+- backup shadow team (3 nibble unique IDs) - out of Eternity - Ghost (PGP)
 #-----------------------------------------------------------------------------------------------------------------------------#
 #silence is golden - but not now ...
 #root range of ipv4 is 0.0.0.0 - We start counting from 0000 nibble.
