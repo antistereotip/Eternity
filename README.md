@@ -23,5 +23,10 @@
 - A system that is used to verify the authenticity of blocks as well as to maintain a digital ledger that keeps track of all blocks in chronological order.
 
 
+## EternityChain
+
+Through flagging, our blockchain will provide fast, low-cost reversible transactions to all tokens within its network. When you flag a transaction, the funds within that transaction are immediately locked until a foundation representative can review the dispute. The funds will be awarded to the user who makes the most compelling argument. There will be an opportunity for the person who has lost the dispute to seek legal redress. This will necessitate both parties providing the representative with their personal information. The representative will then plan the most reasonable action for both parties. The user who is suing will be required to pay for any expenses incurred as a result of the case, which will be reimbursed if the court rules in their favor.
+
+
 *#blockchain #crypto #opensource #privacy #development #whitehat #society*
 
