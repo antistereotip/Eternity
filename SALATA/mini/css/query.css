@@ -1,0 +1,23 @@
+@media screen and (max-width: 740px) 	{
+	body { width: 90%; margin: 0 auto; padding: 0; margin-top: 0px;}
+	pre {white-space: pre; white-space: pre-wrap; white-space: pre-line; white-space: -pre-wrap; white-space: -o-pre-wrap;  
+	white-space: -moz-pre-wrap; white-space: -hp-pre-wrap; word-wrap: break-word;}
+	#dugme {display: none;}
+	.holder {width: 98%; padding: 1%;}
+	.grid {width: 100%;margin:0; padding:0;}
+	.grid .cetiri.kol nav ul li a {width:99%;padding:0; margin:5px auto; float: leftr;;}
+	.grid .dvanest.kol {width:99%; float: left; border-left: 1px solid #414141; padding: 0; font-size: 12px;}
+	.grid .dvanest.kol p {width:99%; font-size: 11px;}
+	.grid .cetiri.kol {width:99%; float: left; border-left: 1px solid #414141; padding: 0;}
+	.grid .dvanest.kol #strip {width:99%; height: 140px;}
+	
+}
+
+@media screen and (max-width: 480px) {
+	
+}
+
+
+@media screen and (max-width: 360px) {
+	
+}
