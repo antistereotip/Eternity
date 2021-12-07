@@ -24,3 +24,11 @@ git add --all
 than 
 
 git push
+
+If you want to delete folder and files:
+git rm -rf folder-into-repositorium
+git commit -m "Delete folder-into-repositorium"
+git commit
+git push
+user: user
+pass: token
